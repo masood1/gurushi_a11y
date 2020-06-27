@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73cc4feb690e03d79faace30516f61ca",
+    "revision": "c28fdb49872fbcea4741fa396ee8e200",
     "url": "/gurushi_a11y/index.html"
   },
   {
-    "revision": "12dc83b8770afb6a437f",
+    "revision": "bf62db19d34f1f3e48b3",
     "url": "/gurushi_a11y/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "ea26eb2c45a5deb95708",
+    "revision": "73c6643d8ee4c3df2575",
     "url": "/gurushi_a11y/static/css/main.00770f9f.chunk.css"
   },
   {
-    "revision": "12dc83b8770afb6a437f",
-    "url": "/gurushi_a11y/static/js/2.4f90c644.chunk.js"
+    "revision": "bf62db19d34f1f3e48b3",
+    "url": "/gurushi_a11y/static/js/2.ad715187.chunk.js"
   },
   {
     "revision": "43842755bb4daadbbdc664990671d25e",
-    "url": "/gurushi_a11y/static/js/2.4f90c644.chunk.js.LICENSE.txt"
+    "url": "/gurushi_a11y/static/js/2.ad715187.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea26eb2c45a5deb95708",
-    "url": "/gurushi_a11y/static/js/main.17d98f15.chunk.js"
+    "revision": "73c6643d8ee4c3df2575",
+    "url": "/gurushi_a11y/static/js/main.6ae007b9.chunk.js"
   },
   {
-    "revision": "325b491e8d6fe5c7dece",
-    "url": "/gurushi_a11y/static/js/runtime-main.e21ec39d.js"
+    "revision": "f948dd0b10cde222b86b",
+    "url": "/gurushi_a11y/static/js/runtime-main.a5e9d32c.js"
   },
   {
     "revision": "3722f7e79ce50cc4aac051312d4cb785",

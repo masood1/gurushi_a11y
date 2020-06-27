@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/gurushi_a11y/static/css/main.00770f9f.chunk.css",
-    "main.js": "/gurushi_a11y/static/js/main.17d98f15.chunk.js",
-    "main.js.map": "/gurushi_a11y/static/js/main.17d98f15.chunk.js.map",
-    "runtime-main.js": "/gurushi_a11y/static/js/runtime-main.e21ec39d.js",
-    "runtime-main.js.map": "/gurushi_a11y/static/js/runtime-main.e21ec39d.js.map",
+    "main.js": "/gurushi_a11y/static/js/main.6ae007b9.chunk.js",
+    "main.js.map": "/gurushi_a11y/static/js/main.6ae007b9.chunk.js.map",
+    "runtime-main.js": "/gurushi_a11y/static/js/runtime-main.a5e9d32c.js",
+    "runtime-main.js.map": "/gurushi_a11y/static/js/runtime-main.a5e9d32c.js.map",
     "static/css/2.6011fe8e.chunk.css": "/gurushi_a11y/static/css/2.6011fe8e.chunk.css",
-    "static/js/2.4f90c644.chunk.js": "/gurushi_a11y/static/js/2.4f90c644.chunk.js",
-    "static/js/2.4f90c644.chunk.js.map": "/gurushi_a11y/static/js/2.4f90c644.chunk.js.map",
+    "static/js/2.ad715187.chunk.js": "/gurushi_a11y/static/js/2.ad715187.chunk.js",
+    "static/js/2.ad715187.chunk.js.map": "/gurushi_a11y/static/js/2.ad715187.chunk.js.map",
     "index.html": "/gurushi_a11y/index.html",
-    "precache-manifest.f0e94c35212d36abcd622ecab8368b44.js": "/gurushi_a11y/precache-manifest.f0e94c35212d36abcd622ecab8368b44.js",
+    "precache-manifest.ef8fa12a1d816ea879eb6e1b75ad3936.js": "/gurushi_a11y/precache-manifest.ef8fa12a1d816ea879eb6e1b75ad3936.js",
     "service-worker.js": "/gurushi_a11y/service-worker.js",
     "static/css/2.6011fe8e.chunk.css.map": "/gurushi_a11y/static/css/2.6011fe8e.chunk.css.map",
     "static/css/main.00770f9f.chunk.css.map": "/gurushi_a11y/static/css/main.00770f9f.chunk.css.map",
-    "static/js/2.4f90c644.chunk.js.LICENSE.txt": "/gurushi_a11y/static/js/2.4f90c644.chunk.js.LICENSE.txt",
+    "static/js/2.ad715187.chunk.js.LICENSE.txt": "/gurushi_a11y/static/js/2.ad715187.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.jpeg": "/gurushi_a11y/static/media/AboutUsPage.3722f7e7.jpeg",
     "static/media/AgencyLandingPage.jpeg": "/gurushi_a11y/static/media/AgencyLandingPage.df4fcdeb.jpeg",
     "static/media/BlogIndexPage.jpeg": "/gurushi_a11y/static/media/BlogIndexPage.7e8818a2.jpeg",
@@ -104,10 +104,10 @@
     "static/media/youtube-icon.45e500e6.svg": "/gurushi_a11y/static/media/youtube-icon.45e500e6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e21ec39d.js",
+    "static/js/runtime-main.a5e9d32c.js",
     "static/css/2.6011fe8e.chunk.css",
-    "static/js/2.4f90c644.chunk.js",
+    "static/js/2.ad715187.chunk.js",
     "static/css/main.00770f9f.chunk.css",
-    "static/js/main.17d98f15.chunk.js"
+    "static/js/main.6ae007b9.chunk.js"
   ]
 }
