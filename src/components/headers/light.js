@@ -72,8 +72,9 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
    */
   const defaultLinks = [
     <NavLinks key={1}>
-      <NavLink href="/#">Blog</NavLink>
-      <NavLink href="/#">Contact Us</NavLink>
+      {/* <NavLink href="/#">Blog</NavLink> */}
+      <NavLink href="/#"> Whatsapp us at +971 552641472 / contact@gurushi.com</NavLink>
+ 
     {
       // <NavLink href="/#" tw="lg:ml-12!">
       //   Login
@@ -90,7 +91,7 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
     <LogoLink href="/">
       {// <img src={logo} alt="logo" />
     }
-      Gurushi Global Solutions
+    <h1>Gurushi Global Solutions </h1>  
     </LogoLink>
   );
 

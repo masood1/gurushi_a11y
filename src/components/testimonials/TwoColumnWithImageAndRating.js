@@ -75,7 +75,7 @@ export default ({
   imageShadow = false,
   subheading = "Testimonials",
   heading = "Our Clients Love Us.",
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam.",
+  description = "We love to serve our clients to our best. and yah we didnt ask for this review, this has been given by our clients through emails after the delivery of our work.",
   textOnLeft = false,
   testimonials = [
     {

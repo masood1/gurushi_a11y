@@ -121,7 +121,7 @@ export default ({
           <NavRow>
             <LogoLink href="/">
               <img src={logo} alt="" />
-              Gurushi
+              Gurushi global solutions
             </LogoLink>
             <DownloadLink target="_blank" href="https://gum.co/QaruQ">
               Download Now

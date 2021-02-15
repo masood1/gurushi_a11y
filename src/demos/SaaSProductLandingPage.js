@@ -107,7 +107,7 @@ export default () => {
               "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=3.25&w=512&h=512&q=80",
             heading: "Amazing User Experience",
             quote:
-              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+              "This company does an amazing job at communicating and leading you through the process of building your website. I'm not always responsive due to being so busy, but they always follow and keep me on track with deadlines. I'm very happy with this company. They really try to earn your business",
             customerName: "Charlotte Hale",
             customerTitle: "Director, Delos Inc."
           },
@@ -116,14 +116,12 @@ export default () => {
             profileImageSrc:
               "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=512&h=512&q=80",
             heading: "Love the Developer Experience and Design Principles !",
-            quote:
-              "Sinor Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-            customerName: "Adam Cuppy",
+            quote:"You guys do amazing work. i could not be happier with your professionalism and how quickly you get things done when requested. I would highly recommend others to use Optuno for their website!!",            customerName: "Adam Cuppy",
             customerTitle: "Founder, EventsNYC"
           }
         ]}
       />
-      <FAQ
+      {/* <FAQ
         subheading={<Subheading>FAQS</Subheading>}
         heading={
           <>
@@ -162,9 +160,9 @@ export default () => {
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
           }
         ]}
-      />
-      <GetStarted/>
-      <Footer />
+      /> */}
+      {/* <GetStarted/> */}
+      {/* <Footer /> */}
     </AnimationRevealPage>
   );
 }

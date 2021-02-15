@@ -83,13 +83,13 @@ import { css } from "styled-components/macro"; //eslint-disable-line
 // import Footer from "components/footers/MiniCenteredFooter.js";
 
 /* Ready Made Pages (from demos folder) */
-// import EventLandingPage from "demos/EventLandingPage.js";
-// import HotelTravelLandingPage from "demos/HotelTravelLandingPage.js";
-// import AgencyLandingPage from "demos/AgencyLandingPage.js";
+import EventLandingPage from "demos/EventLandingPage.js";
+import HotelTravelLandingPage from "demos/HotelTravelLandingPage.js";
+import AgencyLandingPage from "demos/AgencyLandingPage.js";
 import SaaSProductLandingPage from "demos/SaaSProductLandingPage.js";
-// import RestaurantLandingPage from "demos/RestaurantLandingPage.js";
-// import ServiceLandingPage from "demos/ServiceLandingPage.js";
-// import HostingCloudLandingPage from "demos/HostingCloudLandingPage.js";
+import RestaurantLandingPage from "demos/RestaurantLandingPage.js";
+import ServiceLandingPage from "demos/ServiceLandingPage.js";
+import HostingCloudLandingPage from "demos/HostingCloudLandingPage.js";
 
 /* Inner Pages */
 // import LoginPage from "pages/Login.js";
@@ -105,33 +105,24 @@ import ComponentRenderer from "ComponentRenderer.js";
 import MainLandingPage from "MainLandingPage.js";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-
 export default function App() {
   // return <AnimationRevealPage disabled></AnimationRevealPage>;
   return (
     <Router>
       <Switch>
-
         <Route path="/components/:type/:subtype/:name">
           <ComponentRenderer />
         </Route>
         <Route path="/components/:type/:name">
           <ComponentRenderer />
         </Route>
-        
-        <Route exact path="/">
+        <Route path="/">
           <SaaSProductLandingPage />
         </Route>
-
-        <Route path="/blog">
-        <BlogIndexPage />
-      </Route>
-
       </Switch>
     </Router>
   );
 }
-
 // export default EventLandingPage;
 // export default HotelTravelLandingPage;
 // export default AgencyLandingPage;

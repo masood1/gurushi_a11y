@@ -58,10 +58,10 @@ export default ({ roundedHeaderButton }) => {
             <Paragraph>
              Every user should have equal access to your website. Gurushi tools, testing and training fix accessibility for your entire organisation.
             </Paragraph>
-            <Actions>
+            {/* <Actions>
               <input type="text" placeholder="Your E-mail Address" />
               <button>Get Started</button>
-            </Actions>
+            </Actions> */}
             <CustomersLogoStrip>
               <p>Our TRUSTED Customers</p>
               <img src={CustomersLogoStripImage} alt="Our Customers" />
