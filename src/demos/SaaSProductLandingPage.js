@@ -163,6 +163,7 @@ export default () => {
       /> */}
       {/* <GetStarted/> */}
       {/* <Footer /> */}
+      <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=1FlN7cWD91VVEKFNSoxjSXfD87HhC7txzSajNn76ToLQVhWIE9i7BgnL8f76"></script></span>
     </AnimationRevealPage>
   );
 }
